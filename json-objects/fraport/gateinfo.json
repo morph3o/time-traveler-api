@@ -1,0 +1,15 @@
+[
+  {
+    "gate": {
+      "name": "A5",
+      "type": "Schengen",
+      "terminal": 1,
+      "area": "A",
+      "departure_bordercheck": "Departure ID-Check A",
+      "departure_securitycheck": "Central Security-Check A",
+      "arrival_bordercheck": "Arrival ID-Check A",
+      "transit_bordercheck": null,
+      "transit_securitycheck": null
+    }
+  }
+]

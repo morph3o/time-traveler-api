@@ -1,0 +1,15 @@
+Consumer Key: cfnGPUL92NfJigE8NasBowbB_U8a
+Consumer Secret: n3HV6K3iR7aV5y9B0B7Cpn9AD5ga
+===
+/flightDetails/{airlineCode}/{flightNumber}
+/flightDetails/{airlineCode}/{flightNumber}/{departureDate}
+/checkininfo/
+/checkininfo/{airlineCode}
+/gates/
+/gates/{gateName}
+/parking/current
+/transittime
+/transittime/{location1}
+/transittime/{location1}/{location2}
+/waitingperiod
+/waitingperiod/{processsite}

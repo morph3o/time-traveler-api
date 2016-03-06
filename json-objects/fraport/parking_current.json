@@ -1,0 +1,86 @@
+[
+  {
+    "parkingFacility": {
+      "name": "Terminal 1 Parkhaus",
+      "type": "Parkade",
+      "longitude": 8.566824,
+      "latitude": 50.050373,
+      "max_drive-in_height": 2.1,
+      "shuttleService": false,
+      "parkingSpaceTypes": [
+        {
+          "parkingSpaceType": {
+            "status": "Free",
+            "type": "Terminal",
+            "capacity": 6428,
+            "specialFeatures": [
+              "Extra-Camera"
+            ],
+            "fee_per_hour": 4.5,
+            "Fee_per_day": 26
+          }
+        },
+        {
+          "parkingSpaceType": {
+            "status": "Free",
+            "type": "Business",
+            "capacity": 2676,
+            "specialFeatures": [
+              "Extra-Width",
+              "Extra-Lighting",
+              "Extra-Camera"
+            ],
+            "fee_per_hour": 5,
+            "Fee_per_day": 30
+          }
+        }
+      ]
+    }
+  },
+  {
+    "parkingFacility": {
+      "name": "Terminal 2 Parkhaus",
+      "type": "Parkade",
+      "longitude": 8.584018,
+      "latitude": 50.051052,
+      "max_drive-in_height": 2.1,
+      "shuttleService": false,
+      "parkingSpaceTypes": [
+        {
+          "parkingSpaceType": {
+            "status": "Free",
+            "type": "Terminal",
+            "capacity": 3343,
+            "specialFeatures": [
+              "Extra-Camera"
+            ],
+            "fee_per_hour": 4.5,
+            "Fee_per_day": 26
+          }
+        }
+      ]
+    }
+  },
+  {
+    "parkingFacility": {
+      "name": "Holiday Parking",
+      "type": "OpenSpace",
+      "longitude": 8.534167,
+      "latitude": 50.023335,
+      "max_drive-in_height": null,
+      "shuttleService": true,
+      "parkingSpaceTypes": [
+        {
+          "parkingSpaceType": {
+            "status": "Free",
+            "type": "Holiday",
+            "capacity": 1470,
+            "specialFeatures": [],
+            "fee_per_hour": 3.6,
+            "Fee_per_day": 23.5
+          }
+        }
+      ]
+    }
+  }
+]

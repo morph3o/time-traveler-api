@@ -1,0 +1,229 @@
+[
+  {
+    "flight": {
+      "operatingAirline": {
+        "iataCode": "LH",
+        "icaoCode": "DLH",
+        "name": "Lufthansa"
+      },
+      "aircraftType": {
+        "icaoCode": "B748",
+        "modelName": "B748",
+        "registration": "DABYT"
+      },
+      "flightNumber": {
+        "airlineCode": "LH",
+        "trackNumber": 400,
+        "suffix": null
+      },
+      "codeShares": [
+        {
+          "codeShare": {
+            "airlineCode": "UA",
+            "trackNumber": 8841,
+            "suffix": null
+          }
+        },
+        {
+          "codeShare": {
+            "airlineCode": "ET",
+            "trackNumber": 1610,
+            "suffix": null
+          }
+        },
+        {
+          "codeShare": {
+            "airlineCode": "SN",
+            "trackNumber": 7230,
+            "suffix": null
+          }
+        },
+        {
+          "codeShare": {
+            "airlineCode": "TG",
+            "trackNumber": 7700,
+            "suffix": null
+          }
+        }
+      ],
+      "departureAirport": "FRA",
+      "arrivalAirport": "JFK",
+      "originDate": "2016-03-05",
+      "departure": {
+        "scheduled": "2016-03-05T09:50:00Z",
+        "estimated": null,
+        "actual": null,
+        "terminal": 1,
+        "gate": "Z25",
+        "checkinInfo": {
+          "checkinLocation": 1
+        },
+        "bordingTime": null
+      },
+      "flightStatus": null
+    }
+  },
+  {
+    "flight": {
+      "operatingAirline": {
+        "iataCode": "LH",
+        "icaoCode": "DLH",
+        "name": "Lufthansa"
+      },
+      "aircraftType": {
+        "icaoCode": "B748",
+        "modelName": "B748",
+        "registration": "DABYC"
+      },
+      "flightNumber": {
+        "airlineCode": "LH",
+        "trackNumber": 400,
+        "suffix": null
+      },
+      "codeShares": [
+        {
+          "codeShare": {
+            "airlineCode": "UA",
+            "trackNumber": 8841,
+            "suffix": null
+          }
+        },
+        {
+          "codeShare": {
+            "airlineCode": "ET",
+            "trackNumber": 1610,
+            "suffix": null
+          }
+        },
+        {
+          "codeShare": {
+            "airlineCode": "SN",
+            "trackNumber": 7230,
+            "suffix": null
+          }
+        },
+        {
+          "codeShare": {
+            "airlineCode": "TG",
+            "trackNumber": 7700,
+            "suffix": null
+          }
+        }
+      ],
+      "departureAirport": "FRA",
+      "arrivalAirport": "JFK",
+      "originDate": "2016-03-04",
+      "departure": {
+        "scheduled": "2016-03-04T09:50:00Z",
+        "estimated": null,
+        "actual": "2016-03-04T10:22:00Z",
+        "terminal": 1,
+        "gate": "Z69",
+        "checkinInfo": {
+          "checkinLocation": 1
+        },
+        "bordingTime": "2016-03-04T09:47:00Z"
+      },
+      "flightStatus": null
+    }
+  },
+  {
+    "flight": {
+      "operatingAirline": {
+        "iataCode": "LH",
+        "icaoCode": "DLH",
+        "name": "Lufthansa"
+      },
+      "aircraftType": {
+        "icaoCode": "B748",
+        "modelName": "B748",
+        "registration": null
+      },
+      "flightNumber": {
+        "airlineCode": "LH",
+        "trackNumber": 400,
+        "suffix": null
+      },
+      "codeShares": [
+        {
+          "codeShare": {
+            "airlineCode": "UA",
+            "trackNumber": 8841,
+            "suffix": null
+          }
+        },
+        {
+          "codeShare": {
+            "airlineCode": "ET",
+            "trackNumber": 1610,
+            "suffix": null
+          }
+        },
+        {
+          "codeShare": {
+            "airlineCode": "SN",
+            "trackNumber": 7230,
+            "suffix": null
+          }
+        },
+        {
+          "codeShare": {
+            "airlineCode": "TG",
+            "trackNumber": 7700,
+            "suffix": null
+          }
+        }
+      ],
+      "departureAirport": "FRA",
+      "arrivalAirport": "JFK",
+      "originDate": "2016-03-06",
+      "departure": {
+        "scheduled": "2016-03-06T09:50:00Z",
+        "estimated": null,
+        "actual": null,
+        "terminal": 1,
+        "gate": "Z25",
+        "checkinInfo": {
+          "checkinLocation": 1
+        },
+        "bordingTime": null
+      },
+      "flightStatus": null
+    }
+  },
+  {
+    "flight": {
+      "operatingAirline": {
+        "iataCode": null,
+        "icaoCode": null,
+        "name": null
+      },
+      "aircraftType": {
+        "icaoCode": "B748",
+        "modelName": "B748",
+        "registration": null
+      },
+      "flightNumber": {
+        "airlineCode": "LH",
+        "trackNumber": 400,
+        "suffix": null
+      },
+      "codeShares": [],
+      "departureAirport": "FRA",
+      "arrivalAirport": null,
+      "originDate": "2016-03-07",
+      "departure": {
+        "scheduled": null,
+        "estimated": null,
+        "actual": null,
+        "terminal": null,
+        "gate": null,
+        "checkinInfo": {
+          "checkinLocation": null
+        },
+        "bordingTime": null
+      },
+      "flightStatus": null
+    }
+  }
+]

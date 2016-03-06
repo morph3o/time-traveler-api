@@ -1,0 +1,22 @@
+[
+  {
+    "path": {
+      "startingPoint": {
+        "name": "Long-Distance Train Station",
+        "longitude": 8.570152,
+        "latitude": 50.05301,
+        "terminal": null,
+        "area": null
+      },
+      "destination": {
+        "name": "The Squaire",
+        "longitude": 8.568234,
+        "latitude": 50.049065,
+        "terminal": null,
+        "area": null
+      },
+      "distance": 65,
+      "transitTime": 2
+    }
+  }
+]

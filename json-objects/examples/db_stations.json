@@ -1,0 +1,51 @@
+{
+	"LocationList": {
+		"noNamespaceSchemaLocation": "http://open-api.bahn.de/bin/rest.exe/v1.0/xsd?name=hafasRestLocation.xsd",
+		"StopLocation": [{
+			"name": "FRANKFURT(MAIN)",
+			"lon": "8.663785",
+			"lat": "50.107149",
+			"id": "008096021"
+		}, {
+			"name": "Frankfurt(Main)Hbf",
+			"lon": "8.663785",
+			"lat": "50.107149",
+			"id": "008000105"
+		}, {
+			"name": "Frankfurt(Main)Flugh",
+			"lon": "8.570971",
+			"lat": "50.051209",
+			"id": "008000281"
+		}, {
+			"name": "Frankfurt(Main)Süd",
+			"lon": "8.686456",
+			"lat": "50.099364",
+			"id": "008002041"
+		}, {
+			"name": "Frankfurt(Main)West",
+			"lon": "8.639334",
+			"lat": "50.118862",
+			"id": "008002042"
+		}, {
+			"name": "Frankfurt(M) Flughafen Fernbf",
+			"lon": "8.570180",
+			"lat": "50.053169",
+			"id": "008070003"
+		}, {
+			"name": "Frankfurt(Oder)",
+			"lon": "14.546497",
+			"lat": "52.336420",
+			"id": "008010113"
+		}, {
+			"name": "Frankfurt(M) Flughafen Regionalbf",
+			"lon": "8.571250",
+			"lat": "50.051218",
+			"id": "008070004"
+		}, {
+			"name": "Franzensfeste",
+			"lon": "11.610080",
+			"lat": "46.788718",
+			"id": "008300089"
+		}]
+	}
+}

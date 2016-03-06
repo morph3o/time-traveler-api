@@ -1,0 +1,1719 @@
+[
+  {
+    "airline": {
+      "name": "ANA All Nippon Airways",
+      "iataCode": "NH",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Adria Airways",
+      "iataCode": "JP",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In A",
+            "longitude": 8.569994,
+            "latitude": 50.050233,
+            "terminal": 1,
+            "area": "A"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Aegean Airlines",
+      "iataCode": "A3",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Aer Lingus",
+      "iataCode": "EI",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Aeroflot",
+      "iataCode": "SU",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Donavia",
+      "iataCode": "D9",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air Algerie",
+      "iataCode": "AH",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air Arabia Maroc",
+      "iataCode": "3O",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air Astana",
+      "iataCode": "KC",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air Baltic",
+      "iataCode": "BT",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air Berlin",
+      "iataCode": "AB",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air Canada",
+      "iataCode": "AC",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In C",
+            "longitude": 8.574471,
+            "latitude": 50.051273,
+            "terminal": 1,
+            "area": "C"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air China",
+      "iataCode": "CA",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air Dolomiti",
+      "iataCode": "EN",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In A",
+            "longitude": 8.569994,
+            "latitude": 50.050233,
+            "terminal": 1,
+            "area": "A"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air France",
+      "iataCode": "AF",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air India",
+      "iataCode": "AI",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air Malta",
+      "iataCode": "KM",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In C",
+            "longitude": 8.574471,
+            "latitude": 50.051273,
+            "terminal": 1,
+            "area": "C"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air Mauritius",
+      "iataCode": "MK",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air Namibia",
+      "iataCode": "SW",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air One",
+      "iataCode": "AP",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In A",
+            "longitude": 8.569994,
+            "latitude": 50.050233,
+            "terminal": 1,
+            "area": "A"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air Seychelles",
+      "iataCode": "HM",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air Transat",
+      "iataCode": "TS",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air VIA",
+      "iataCode": "VL",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Alitalia",
+      "iataCode": "AZ",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "American Airlines",
+      "iataCode": "AA",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In C",
+            "longitude": 8.574471,
+            "latitude": 50.051273,
+            "terminal": 1,
+            "area": "C"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Ariana Afghan Airlines",
+      "iataCode": "FG",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Arkia Israeli Airlines",
+      "iataCode": "IZ",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In C",
+            "longitude": 8.574471,
+            "latitude": 50.051273,
+            "terminal": 1,
+            "area": "C"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Asiana Airlines",
+      "iataCode": "OZ",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In C",
+            "longitude": 8.574471,
+            "latitude": 50.051273,
+            "terminal": 1,
+            "area": "C"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Austrian Airlines",
+      "iataCode": "OS",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In A",
+            "longitude": 8.569994,
+            "latitude": 50.050233,
+            "terminal": 1,
+            "area": "A"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "B&H Airlines",
+      "iataCode": "JA",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "British Airways",
+      "iataCode": "BA",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Belavia Airlines",
+      "iataCode": "B2",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Blue Panorama Airlines",
+      "iataCode": "BV",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "BMI Regional",
+      "iataCode": "BM",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In A",
+            "longitude": 8.569994,
+            "latitude": 50.050233,
+            "terminal": 1,
+            "area": "A"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Brussels Airlines",
+      "iataCode": "SN",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In C",
+            "longitude": 8.574471,
+            "latitude": 50.051273,
+            "terminal": 1,
+            "area": "C"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Bulgaria Air",
+      "iataCode": "FB",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In C",
+            "longitude": 8.574471,
+            "latitude": 50.051273,
+            "terminal": 1,
+            "area": "C"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Bulgarian Air Charter",
+      "iataCode": "H6",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "CSA Czech Airlines",
+      "iataCode": "OK",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Cathay Pacific",
+      "iataCode": "CX",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "China Airlines",
+      "iataCode": "CI",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "China Eastern Airlines",
+      "iataCode": "MU",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Condor",
+      "iataCode": "DE",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In C",
+            "longitude": 8.574471,
+            "latitude": 50.051273,
+            "terminal": 1,
+            "area": "C"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Croatia Airlines",
+      "iataCode": "OU",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In A",
+            "longitude": 8.569994,
+            "latitude": 50.050233,
+            "terminal": 1,
+            "area": "A"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Delta Air Lines",
+      "iataCode": "DL",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Egyptair",
+      "iataCode": "MS",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "El Al",
+      "iataCode": "LY",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In C",
+            "longitude": 8.574471,
+            "latitude": 50.051273,
+            "terminal": 1,
+            "area": "C"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Emirates",
+      "iataCode": "EK",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Ethiopian Airlines",
+      "iataCode": "ET",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In C",
+            "longitude": 8.574471,
+            "latitude": 50.051273,
+            "terminal": 1,
+            "area": "C"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Etihad Airways",
+      "iataCode": "EY",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Eurowings",
+      "iataCode": "EW",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Finnair",
+      "iataCode": "AY",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Flybe",
+      "iataCode": "BE",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Freebird Airlines",
+      "iataCode": "FH",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Airzena Georgian Airways",
+      "iataCode": "A9",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Gulf Air",
+      "iataCode": "GF",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Iberia",
+      "iataCode": "IB",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Icelandair",
+      "iataCode": "FI",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Iran Air",
+      "iataCode": "IR",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In C",
+            "longitude": 8.574471,
+            "latitude": 50.051273,
+            "terminal": 1,
+            "area": "C"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Iraqi Airways",
+      "iataCode": "IA",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Japan Airlines",
+      "iataCode": "JL",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Air Serbia",
+      "iataCode": "JU",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In C",
+            "longitude": 8.574471,
+            "latitude": 50.051273,
+            "terminal": 1,
+            "area": "C"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "KLM-Royal Dutch Airlines",
+      "iataCode": "KL",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Korean Air",
+      "iataCode": "KE",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Kuwait Airways",
+      "iataCode": "KU",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Kyrgyzstan",
+      "iataCode": "QH",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "LAN Airlines",
+      "iataCode": "LA",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "LOT Polish Airlines",
+      "iataCode": "LO",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In A",
+            "longitude": 8.569994,
+            "latitude": 50.050233,
+            "terminal": 1,
+            "area": "A"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Lufthansa",
+      "iataCode": "LH",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Luxair",
+      "iataCode": "LG",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "MEA-Middle East Airlines",
+      "iataCode": "ME",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Malaysia Airlines",
+      "iataCode": "MH",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Montenegro Airlines",
+      "iataCode": "YM",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "FlyNiki",
+      "iataCode": "HG",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Nouvelair",
+      "iataCode": "BJ",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "PIA-Pakistan International Airlines",
+      "iataCode": "PK",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Qantas Airways",
+      "iataCode": "QF",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Qatar Airways",
+      "iataCode": "QR",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Royal Air Maroc",
+      "iataCode": "AT",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Royal Jordanian",
+      "iataCode": "RJ",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "SAS Scandinavian Airlines",
+      "iataCode": "SK",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In A",
+            "longitude": 8.569994,
+            "latitude": 50.050233,
+            "terminal": 1,
+            "area": "A"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "SATA Internacional",
+      "iataCode": "S4",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Safi Airways",
+      "iataCode": "4Q",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Saudia",
+      "iataCode": "SV",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "S7 Airlines",
+      "iataCode": "S7",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Singapore Airlines",
+      "iataCode": "SQ",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Somon Air",
+      "iataCode": "SZ",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "South African Airways",
+      "iataCode": "SA",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "SriLankan Airlines",
+      "iataCode": "UL",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Sunexpress",
+      "iataCode": "XQ",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Swiss",
+      "iataCode": "LX",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In A",
+            "longitude": 8.569994,
+            "latitude": 50.050233,
+            "terminal": 1,
+            "area": "A"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "TAM Linhas AÃ©reas",
+      "iataCode": "JJ",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In C",
+            "longitude": 8.574471,
+            "latitude": 50.051273,
+            "terminal": 1,
+            "area": "C"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "TAP Portugal",
+      "iataCode": "TP",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In A",
+            "longitude": 8.569994,
+            "latitude": 50.050233,
+            "terminal": 1,
+            "area": "A"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Tarom",
+      "iataCode": "RO",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Thai Airways International",
+      "iataCode": "TG",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Turkish Airlines",
+      "iataCode": "TK",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "US Airways",
+      "iataCode": "US",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Ukraine International Airlines",
+      "iataCode": "PS",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "United Airlines",
+      "iataCode": "UA",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Uzbekistan Airways",
+      "iataCode": "HY",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Vietnam Airlines",
+      "iataCode": "VN",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In B",
+            "longitude": 8.571994,
+            "latitude": 50.050465,
+            "terminal": 1,
+            "area": "B"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "airline": {
+      "name": "Yemenia",
+      "iataCode": "IY",
+      "checkIns": [
+        {
+          "checkIn": {
+            "name": "Check-In T2",
+            "longitude": 8.586296,
+            "latitude": 50.05155,
+            "terminal": 2,
+            "area": "D+E"
+          }
+        }
+      ]
+    }
+  }
+]

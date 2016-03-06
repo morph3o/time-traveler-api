@@ -1,0 +1,291 @@
+{
+	"StopLocation": [{
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Thea-Rasche-Straße@X=8591134@Y=50055227@u=0@U=80@L=3060797@",
+		"extId": "3060797",
+		"name": "Frankfurt (Main) Thea-Rasche-Straße",
+		"lon": 8.591134,
+		"lat": 50.055227,
+		"weight": 208,
+		"dist": 161,
+		"products": 64
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Kreisel Unterschweinstiege@X=8588617@Y=50057088@u=0@U=80@L=3002938@",
+		"extId": "3002938",
+		"name": "Frankfurt (Main) Kreisel Unterschweinstiege",
+		"lon": 8.588617,
+		"lat": 50.057088,
+		"weight": 208,
+		"dist": 277,
+		"products": 64
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Gateway Gardens Mitte@X=8595916@Y=50054985@u=0@U=80@L=3060798@",
+		"extId": "3060798",
+		"name": "Frankfurt (Main) Gateway Gardens Mitte",
+		"lon": 8.595916,
+		"lat": 50.054985,
+		"weight": 208,
+		"dist": 300,
+		"products": 64
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Gateway Gardens Nord@X=8596546@Y=50058005@u=0@U=80@L=3002937@",
+		"extId": "3002937",
+		"name": "Frankfurt (Main) Gateway Gardens Nord",
+		"lon": 8.596546,
+		"lat": 50.058005,
+		"weight": 208,
+		"dist": 345,
+		"products": 64
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Flughafen Tor 2@X=8593606@Y=50052261@u=0@U=80@L=3060805@",
+		"extId": "3060805",
+		"name": "Frankfurt (Main) Flughafen Tor 2",
+		"lon": 8.593606,
+		"lat": 50.052261,
+		"weight": 59,
+		"dist": 473,
+		"products": 64
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Flughafen Terminal 2@X=8588464@Y=50052566@u=0@U=80@L=3002933@",
+		"extId": "3002933",
+		"name": "Frankfurt (Main) Flughafen Terminal 2",
+		"lon": 8.588464,
+		"lat": 50.052566,
+		"weight": 271,
+		"dist": 513,
+		"products": 192
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Hugo-Eckener-Ring@X=8585795@Y=50053133@u=0@U=80@L=3002934@",
+		"extId": "3002934",
+		"name": "Frankfurt (Main) Hugo-Eckener-Ring",
+		"lon": 8.585795,
+		"lat": 50.053133,
+		"weight": 208,
+		"dist": 596,
+		"products": 64
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Unterschweinstiege@X=8584302@Y=50058823@u=0@U=80@L=3002990@",
+		"extId": "3002990",
+		"name": "Frankfurt (Main) Unterschweinstiege",
+		"lon": 8.584302,
+		"lat": 50.058823,
+		"weight": 208,
+		"dist": 633,
+		"products": 64
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Gateway Gardens Ost@X=8602002@Y=50056594@u=0@U=80@L=3060803@",
+		"extId": "3060803",
+		"name": "Frankfurt (Main) Gateway Gardens Ost",
+		"lon": 8.602002,
+		"lat": 50.056594,
+		"weight": 59,
+		"dist": 688,
+		"products": 64
+	}],
+	"CoordLocation": [{
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "$IAD",
+				"key": "B2",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "P3",
+				"type": "A"
+			}]
+		},
+		"name": "Frankfurt (Main) HOLM - House of Logistics & Mobil",
+		"type": "POI",
+		"lon": 8.593588,
+		"lat": 50.056279,
+		"dist": 89
+	}],
+	"serverVersion": "1.5",
+	"dialectVersion": "1.0"
+}

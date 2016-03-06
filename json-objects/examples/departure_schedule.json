@@ -1,0 +1,245 @@
+{
+	"DepartureBoard": {
+		"noNamespaceSchemaLocation": "http://open-api.bahn.de/bin/rest.exe/v1.0/xsd?name=hafasRestDepartureBoard.xsd",
+		"Departure": [{
+			"name": "ICE 874",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "07:13",
+			"date": "2016-03-06",
+			"direction": "Berlin Ostbahnhof",
+			"track": "8",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=972951%2F328623%2F955902%2F153634%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 1555",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "07:18",
+			"date": "2016-03-06",
+			"direction": "Dresden Hbf",
+			"track": "9",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=336021%2F113126%2F426792%2F101389%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 220",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "07:27",
+			"date": "2016-03-06",
+			"direction": "Amsterdam Centraal",
+			"track": "3",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=210468%2F75301%2F971884%2F415786%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "IC 1028",
+			"type": "IC",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "07:42",
+			"date": "2016-03-06",
+			"direction": "Hamburg-Altona",
+			"track": "6",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=770874%2F257443%2F723864%2F104974%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 999",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "07:50",
+			"date": "2016-03-06",
+			"direction": "München Hbf",
+			"track": "9",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=84264%2F32800%2F139052%2F41438%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 1125",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "07:54",
+			"date": "2016-03-06",
+			"direction": "München Hbf",
+			"track": "7",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=303306%2F101802%2F26928%2F87638%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 674",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "07:58",
+			"date": "2016-03-06",
+			"direction": "Kiel Hbf",
+			"track": "8",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=5850%2F5691%2F493406%2F244753%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 694",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "08:13",
+			"date": "2016-03-06",
+			"direction": "Berlin Ostbahnhof",
+			"track": "9",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=498858%2F170109%2F961482%2F314455%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 818",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "08:16",
+			"date": "2016-03-06",
+			"direction": "Düsseldorf Hbf",
+			"track": "19",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=279867%2F97424%2F921670%2F367546%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 23",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "08:21",
+			"date": "2016-03-06",
+			"direction": "Wien Hbf",
+			"track": "6",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=935256%2F316921%2F480302%2F71601%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 1545",
+			"type": "ICE",
+			"stopid": "8002041",
+			"stop": "Frankfurt(Main)Süd",
+			"time": "08:22",
+			"date": "2016-03-06",
+			"direction": "Leipzig Hbf",
+			"track": "8",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=773751%2F259020%2F848218%2F166192%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8002041%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "EC 113",
+			"type": "EC",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "08:22",
+			"date": "2016-03-06",
+			"direction": "Klagenfurt Hbf",
+			"track": "10",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=864759%2F293030%2F156420%2F210043%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 1656",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "08:42",
+			"date": "2016-03-06",
+			"direction": "Wiesbaden Hbf",
+			"track": "6",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=215439%2F73093%2F484492%2F170433%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 275",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "08:50",
+			"date": "2016-03-06",
+			"direction": "Interlaken Ost",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=869835%2F295219%2F432488%2F73701%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "IC 2376",
+			"type": "IC",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "08:52",
+			"date": "2016-03-06",
+			"direction": "Stralsund Hbf",
+			"track": "11",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=444909%2F150750%2F440416%2F71905%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 9556",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "08:57",
+			"date": "2016-03-06",
+			"direction": "Paris Est",
+			"track": "3",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=114447%2F42739%2F309424%2F116563%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 772",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "08:58",
+			"date": "2016-03-06",
+			"direction": "Hamburg-Altona",
+			"track": "8",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=627837%2F213274%2F969690%2F275566%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 1535",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "09:02",
+			"date": "2016-03-06",
+			"direction": "Stralsund Hbf",
+			"track": "13",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=140319%2F47849%2F588142%2F247298%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 374",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "09:13",
+			"date": "2016-03-06",
+			"direction": "Berlin Ostbahnhof",
+			"track": "8",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=908163%2F305503%2F607740%2F1149%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}, {
+			"name": "ICE 1597",
+			"type": "ICE",
+			"stopid": "8000105",
+			"stop": "Frankfurt(Main)Hbf",
+			"time": "09:19",
+			"date": "2016-03-06",
+			"direction": "Dresden Hbf",
+			"track": "9",
+			"JourneyDetailRef": {
+				"ref": "http://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=3459%2F2346%2F690826%2F344260%2F80%3Fdate%3D2016-03-06%26station_evaId%3D8000105%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26format%3Djson%26"
+			}
+		}]
+	}
+}

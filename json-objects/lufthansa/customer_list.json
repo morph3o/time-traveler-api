@@ -1,0 +1,54 @@
+{
+    "CustomersResponse": {
+        "Customers": {
+            "Customer": [{
+                "ProfileID": 189722473
+            }, {
+                "ProfileID": 333032305208747
+            }, {
+                "ProfileID": 333035250241928
+            }, {
+                "ProfileID": 456141191
+            }, {
+                "ProfileID": 485631667
+            }, {
+                "ProfileID": 495359358
+            }, {
+                "ProfileID": 533750576
+            }, {
+                "ProfileID": 540812393
+            }, {
+                "ProfileID": 568603849
+            }, {
+                "ProfileID": 924256928
+            }, {
+                "ProfileID": 947593455
+            }, {
+                "ProfileID": 974659369
+            }, {
+                "ProfileID": 992222314326224
+            }, {
+                "ProfileID": 992223563138526
+            }, {
+                "ProfileID": "cust_001"
+            }, {
+                "ProfileID": "cust_002"
+            }, {
+                "ProfileID": "cust_003"
+            }, {
+                "ProfileID": "cust_004"
+            }, {
+                "ProfileID": "cust_005"
+            }, {
+                "ProfileID": "cust_006"
+            }]
+        },
+        "Meta": {
+            "@Version": "1.0.0",
+            "Link": {
+                "@Href": "https:\/\/api-test.lufthansa.com\/v1\/customerdata\/customers?filter=id",
+                "@Rel": "self"
+            }
+        }
+    }
+}

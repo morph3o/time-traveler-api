@@ -1,0 +1,302 @@
+[
+  {
+    "processSite": {
+      "name": "Central Security-Check A",
+      "type": "Security-Check",
+      "longitude": 8.568924,
+      "latitude": 50.04928,
+      "terminal": null,
+      "area": null,
+      "direction": "Closed",
+      "status": "Closed",
+      "waitingTime": null
+    }
+  },
+  {
+    "processSite": {
+      "name": "Transit Security-Check A",
+      "type": "Security-Check",
+      "longitude": 8.568924,
+      "latitude": 50.04928,
+      "terminal": null,
+      "area": null,
+      "direction": "Closed",
+      "status": "Closed",
+      "waitingTime": null
+    }
+  },
+  {
+    "processSite": {
+      "name": "Arrival ID-Check A",
+      "type": "Passport-Control",
+      "longitude": 8.569029,
+      "latitude": 50.048958,
+      "terminal": null,
+      "area": null,
+      "direction": "Closed",
+      "status": "Closed",
+      "waitingTime": null
+    }
+  },
+  {
+    "processSite": {
+      "name": "Departure ID-Check A",
+      "type": "Passport-Control",
+      "longitude": 8.568726,
+      "latitude": 50.048557,
+      "terminal": null,
+      "area": null,
+      "direction": "Closed",
+      "status": "Closed",
+      "waitingTime": null
+    }
+  },
+  {
+    "processSite": {
+      "name": "Central Security-Check B",
+      "type": "Security-Check",
+      "longitude": 8.573111,
+      "latitude": 50.04954,
+      "terminal": null,
+      "area": null,
+      "direction": "Open",
+      "status": "Open",
+      "waitingTime": {
+        "currentWait": 249,
+        "germanText": "Geringes Aufkommen",
+        "englishText": "Low queuing time"
+      }
+    }
+  },
+  {
+    "processSite": {
+      "name": "Transit Security-Check B",
+      "type": "Security-Check",
+      "longitude": 8.572068,
+      "latitude": 50.04933,
+      "terminal": null,
+      "area": null,
+      "direction": "Open",
+      "status": "Open",
+      "waitingTime": {
+        "currentWait": 142,
+        "germanText": "Geringes Aufkommen",
+        "englishText": "Low queuing time"
+      }
+    }
+  },
+  {
+    "processSite": {
+      "name": "Arrival ID-Check B",
+      "type": "Passport-Control",
+      "longitude": 8.57343,
+      "latitude": 50.04842,
+      "terminal": null,
+      "area": null,
+      "direction": "Open",
+      "status": "Open",
+      "waitingTime": {
+        "currentWait": 431,
+        "germanText": "5-10 min",
+        "englishText": "5-10 min"
+      }
+    }
+  },
+  {
+    "processSite": {
+      "name": "Departure ID-Check B",
+      "type": "Passport-Control",
+      "longitude": 8.572979,
+      "latitude": 50.04832,
+      "terminal": null,
+      "area": null,
+      "direction": "Open",
+      "status": "Open",
+      "waitingTime": {
+        "currentWait": 183,
+        "germanText": "Geringes Aufkommen",
+        "englishText": "Low queuing time"
+      }
+    }
+  },
+  {
+    "processSite": {
+      "name": "Central Security-Check C",
+      "type": "Security-Check",
+      "longitude": 8.574628,
+      "latitude": 50.05049,
+      "terminal": null,
+      "area": null,
+      "direction": "Closed",
+      "status": "Closed",
+      "waitingTime": null
+    }
+  },
+  {
+    "processSite": {
+      "name": "Transit Security-Check C",
+      "type": "Security-Check",
+      "longitude": 8.574628,
+      "latitude": 50.05049,
+      "terminal": null,
+      "area": null,
+      "direction": "Closed",
+      "status": "Closed",
+      "waitingTime": null
+    }
+  },
+  {
+    "processSite": {
+      "name": "Arrival ID-Check C",
+      "type": "Passport-Control",
+      "longitude": 8.575663,
+      "latitude": 50.050827,
+      "terminal": null,
+      "area": null,
+      "direction": "Closed",
+      "status": "Closed",
+      "waitingTime": null
+    }
+  },
+  {
+    "processSite": {
+      "name": "Departure ID-Check C",
+      "type": "Passport-Control",
+      "longitude": 8.5751,
+      "latitude": 50.05069,
+      "terminal": null,
+      "area": null,
+      "direction": "Closed",
+      "status": "Closed",
+      "waitingTime": null
+    }
+  },
+  {
+    "processSite": {
+      "name": "Central Security-Check T2",
+      "type": "Security-Check",
+      "longitude": 8.587375,
+      "latitude": 50.05141,
+      "terminal": null,
+      "area": null,
+      "direction": "Closed",
+      "status": "Closed",
+      "waitingTime": null
+    }
+  },
+  {
+    "processSite": {
+      "name": "Transit Security-Check T2",
+      "type": "Security-Check",
+      "longitude": 8.586415,
+      "latitude": 50.051327,
+      "terminal": null,
+      "area": null,
+      "direction": "Closed",
+      "status": "Closed",
+      "waitingTime": null
+    }
+  },
+  {
+    "processSite": {
+      "name": "Arrival ID-Check T2",
+      "type": "Passport-Control",
+      "longitude": 8.584451,
+      "latitude": 50.050865,
+      "terminal": null,
+      "area": null,
+      "direction": "Open",
+      "status": "Open",
+      "waitingTime": {
+        "currentWait": 99,
+        "germanText": "Geringes Aufkommen",
+        "englishText": "Low queuing time"
+      }
+    }
+  },
+  {
+    "processSite": {
+      "name": "Departure ID-Check T2",
+      "type": "Passport-Control",
+      "longitude": 8.587378,
+      "latitude": 50.051403,
+      "terminal": null,
+      "area": null,
+      "direction": "Open",
+      "status": "Open",
+      "waitingTime": {
+        "currentWait": 21,
+        "germanText": "Geringes Aufkommen",
+        "englishText": "Low queuing time"
+      }
+    }
+  },
+  {
+    "processSite": {
+      "name": "Check-In A",
+      "type": "Check-In",
+      "longitude": 8.569994,
+      "latitude": 50.050232,
+      "terminal": null,
+      "area": null,
+      "direction": "Open",
+      "status": "Open",
+      "waitingTime": {
+        "currentWait": 106,
+        "germanText": "Geringes Aufkommen",
+        "englishText": "Low queuing time"
+      }
+    }
+  },
+  {
+    "processSite": {
+      "name": "Check-In B",
+      "type": "Check-In",
+      "longitude": 8.571994,
+      "latitude": 50.050465,
+      "terminal": null,
+      "area": null,
+      "direction": "Open",
+      "status": "Open",
+      "waitingTime": {
+        "currentWait": 0,
+        "germanText": "Geringes Aufkommen",
+        "englishText": "Low queuing time"
+      }
+    }
+  },
+  {
+    "processSite": {
+      "name": "Check-In C",
+      "type": "Check-In",
+      "longitude": 8.574471,
+      "latitude": 50.051273,
+      "terminal": null,
+      "area": null,
+      "direction": "Open",
+      "status": "Open",
+      "waitingTime": {
+        "currentWait": 95,
+        "germanText": "Geringes Aufkommen",
+        "englishText": "Low queuing time"
+      }
+    }
+  },
+  {
+    "processSite": {
+      "name": "Check-In T2",
+      "type": "Check-In",
+      "longitude": 8.586296,
+      "latitude": 50.05155,
+      "terminal": null,
+      "area": null,
+      "direction": "Open",
+      "status": "Open",
+      "waitingTime": {
+        "currentWait": 0,
+        "germanText": "Geringes Aufkommen",
+        "englishText": "Low queuing time"
+      }
+    }
+  }
+]

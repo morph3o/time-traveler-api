@@ -1,0 +1,319 @@
+{
+	"StopLocation": [{
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HI",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Hauptbahnhof@X=8662661@Y=50106816@U=80@L=003000010@B=1@V=6.9,@p=1457100653@",
+		"extId": "003000010",
+		"name": "Frankfurt (Main) Hauptbahnhof",
+		"lon": 8.662661,
+		"lat": 50.106816,
+		"weight": 32767,
+		"products": 255
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Südbahnhof@X=8686447@Y=50099328@U=80@L=003000912@B=1@V=6.9,@p=1457100653@",
+		"extId": "003000912",
+		"name": "Frankfurt (Main) Südbahnhof",
+		"lon": 8.686447,
+		"lat": 50.099328,
+		"weight": 32704,
+		"products": 127
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Konstablerwache@X=8687858@Y=50114691@U=80@L=003000510@B=1@V=6.9,@p=1457100653@",
+		"extId": "003000510",
+		"name": "Frankfurt (Main) Konstablerwache",
+		"lon": 8.687858,
+		"lat": 50.114691,
+		"weight": 18337,
+		"products": 248
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Zoo@X=8698672@Y=50115536@U=80@L=003000511@B=1@V=6.9,@p=1457100653@",
+		"extId": "003000511",
+		"name": "Frankfurt (Main) Zoo",
+		"lon": 8.698672,
+		"lat": 50.115536,
+		"weight": 10053,
+		"products": 112
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Hauptwache@X=8679291@Y=50113963@U=80@L=003000001@B=1@V=6.9,@p=1457100653@",
+		"extId": "003000001",
+		"name": "Frankfurt (Main) Hauptwache",
+		"lon": 8.679291,
+		"lat": 50.113963,
+		"weight": 13930,
+		"products": 24
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Mühlberg@X=8699706@Y=50101899@U=80@L=003000903@B=1@V=6.9,@p=1457100653@",
+		"extId": "003000903",
+		"name": "Frankfurt (Main) Mühlberg",
+		"lon": 8.699706,
+		"lat": 50.101899,
+		"weight": 10613,
+		"products": 104
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Niederrad Bahnhof@X=8637096@Y=50080784@U=80@L=003001830@B=1@V=6.9,@p=1457100653@",
+		"extId": "003001830",
+		"name": "Frankfurt (Main) Niederrad Bahnhof",
+		"lon": 8.637096,
+		"lat": 50.080784,
+		"weight": 12626,
+		"products": 108
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Westbahnhof@X=8639757@Y=50119015@U=80@L=003001204@B=1@V=6.9,@p=1457100653@",
+		"extId": "003001204",
+		"name": "Frankfurt (Main) Westbahnhof",
+		"lon": 8.639757,
+		"lat": 50.119015,
+		"weight": 11951,
+		"products": 206
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Willy-Brandt-Platz@X=8674932@Y=50109216@U=80@L=003000004@B=1@V=6.9,@p=1457100653@",
+		"extId": "003000004",
+		"name": "Frankfurt (Main) Willy-Brandt-Platz",
+		"lon": 8.674932,
+		"lat": 50.109216,
+		"weight": 11902,
+		"products": 112
+	}, {
+		"LocationNotes": {
+			"LocationNote": [{
+				"value": "",
+				"key": "HB",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HE",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "HT",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "V0",
+				"type": "A"
+			}, {
+				"value": "",
+				"key": "WS",
+				"type": "A"
+			}]
+		},
+		"id": "A=1@O=Frankfurt (Main) Kalbach@X=8658077@Y=50183063@U=80@L=003001351@B=1@V=6.9,@p=1457100653@",
+		"extId": "003001351",
+		"name": "Frankfurt (Main) Kalbach",
+		"lon": 8.658077,
+		"lat": 50.183063,
+		"weight": 7915,
+		"products": 80
+	}],
+	"serverVersion": "1.5",
+	"dialectVersion": "1.0"
+}

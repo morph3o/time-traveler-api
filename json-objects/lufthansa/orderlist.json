@@ -1,0 +1,26 @@
+{
+    "OrdersResponse": {
+        "Orders": {
+            "Order": [{
+                "OrderID": "ord_001"
+            }, {
+                "OrderID": "ord_002"
+            }, {
+                "OrderID": "ord_003"
+            }, {
+                "OrderID": "ord_004"
+            }, {
+                "OrderID": "ord_005"
+            }, {
+                "OrderID": "ord_006"
+            }]
+        },
+        "Meta": {
+            "@Version": "1.0.0",
+            "Link": {
+                "@Href": "https:\/\/api-test.lufthansa.com\/v1\/customerdata\/orders?filter=id",
+                "@Rel": "self"
+            }
+        }
+    }
+}

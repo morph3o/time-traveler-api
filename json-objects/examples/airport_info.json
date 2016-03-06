@@ -1,0 +1,54 @@
+{
+	"AirportCode": "FRA",
+	"Position": {
+		"Coordinate": {
+			"Latitude": 50.03194444,
+			"Longitude": 8.577777778
+		}
+	},
+	"CityCode": "FRA",
+	"CountryCode": "DE",
+	"LocationType": "Airport",
+	"Names": {
+		"Name": [{
+			"@LanguageCode": "xx",
+			"$": "Frankfurt/Main International"
+		}, {
+			"@LanguageCode": "de",
+			"$": "Frankfurt/Main International"
+		}, {
+			"@LanguageCode": "ru",
+			"$": "Frankfurt/Main International"
+		}, {
+			"@LanguageCode": "ko",
+			"$": "Frankfurt/Main International"
+		}, {
+			"@LanguageCode": "pt",
+			"$": "Frankfurt/Main International"
+		}, {
+			"@LanguageCode": "en",
+			"$": "Frankfurt/Main International"
+		}, {
+			"@LanguageCode": "it",
+			"$": "Francoforte - Frankfurt/Main International"
+		}, {
+			"@LanguageCode": "fr",
+			"$": "Frankfurt/Main International"
+		}, {
+			"@LanguageCode": "es",
+			"$": "Frankfurt/Main International"
+		}, {
+			"@LanguageCode": "ka",
+			"$": "Frankfurt/Main International"
+		}, {
+			"@LanguageCode": "ja",
+			"$": "Frankfurt/Main International"
+		}, {
+			"@LanguageCode": "mi",
+			"$": "Frankfurt/Main International"
+		}, {
+			"@LanguageCode": "pl",
+			"$": "Frankfurt/Main International"
+		}]
+	}
+}

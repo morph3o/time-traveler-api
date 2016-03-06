@@ -1,0 +1,15 @@
+[
+  {
+    "processSite": {
+      "name": "Central Security-Check A",
+      "type": "Security-Check",
+      "longitude": 8.568924,
+      "latitude": 50.04928,
+      "terminal": null,
+      "area": null,
+      "direction": "Closed",
+      "status": "Closed",
+      "waitingTime": null
+    }
+  }
+]

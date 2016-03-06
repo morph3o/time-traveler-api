@@ -1,0 +1,471 @@
+{
+    "CustomersAndOrdersResponse": {
+        "Customers": {
+            "Customer": {
+                "@ObjectKey": "4b79b449-a358-4565-a430-9a5b10653123",
+                "PTC": {
+                    "@Quantity": "0",
+                    "$": "ADT"
+                },
+                "ResidenceCode": "DE",
+                "PassengerAssociation": "cust_002",
+                "Age": {
+                    "Value": {
+                        "@UOM": "years",
+                        "$": "35"
+                    }
+                },
+                "CitizenshipCountryCode": "DE",
+                "NationalityCountryCode": "DE",
+                "Name": {
+                    "Surname": "Vielflieger",
+                    "Given": ["Hannes", "Peter"],
+                    "Title": "Herr",
+                    "Middle": "Günther"
+                },
+                "ProfileID": "cust_001",
+                "Gender": "M",
+                "FQTVs": {
+                    "FQTV_ProgramCore": {
+                        "FQTV_ProgramID": "LH",
+                        "Account": {
+                            "Number": 99201234123
+                        },
+                        "Tier": {
+                            "TierName": "SENATOR",
+                            "TierCode": "SEN",
+                            "Priority": 2
+                        },
+                        "TierExpiration": "2016-12-31"
+                    }
+                },
+                "Contacts": {
+                    "Contact": {
+                        "@ContactType": "primary",
+                        "AddressContact": {
+                            "Street": "Eichenmattstrasse",
+                            "BuildingRoom": 25,
+                            "PO_Box": "",
+                            "CityName": "München",
+                            "StateProv": "Bayern",
+                            "PostalCode": 77775,
+                            "CountryCode": "DE",
+                            "Application": "HOME"
+                        },
+                        "EmailContact": {
+                            "Application": "BUSINESS",
+                            "Address": "hannes.vielflieger@yahoo.com"
+                        },
+                        "OtherContactMethod": {
+                            "Name": "PERSONAL WEB SITE",
+                            "Value": "www.frequenttraveller.de"
+                        },
+                        "PhoneContact": {
+                            "Application": "BUSINESS",
+                            "Number": {
+                                "@CountryCode": "49",
+                                "@AreaCode": "12",
+                                "@Extension": "",
+                                "$": "8808080"
+                            }
+                        },
+                        "Name": {
+                            "Surname": "Vielflieger",
+                            "Given": "Brigitte",
+                            "Title": "Frau",
+                            "Middle": "Ruth"
+                        }
+                    }
+                },
+                "Languages": {
+                    "LanguageCode": "DE"
+                },
+                "Preferences": {
+                    "Preference": [{
+                        "PreferenceType": "inflight.food",
+                        "Preference": "food(vegetarian,indian);baverages(wine,champagne)"
+                    }, {
+                        "PreferenceType": "travel.destinations",
+                        "Preference": "destinations(usa,asia);affinity(golf,beach)"
+                    }, {
+                        "PreferenceType": "sys.inflight.food",
+                        "Preference": "food(vegetarian,indian)"
+                    }, {
+                        "PreferenceType": "sys.travel.destinations",
+                        "Preference": "destinations(usa,asia);affinity(golf,beach)"
+                    }]
+                }
+            }
+        },
+        "Orders": {
+            "Order": {
+                "OrderID": "ord_001",
+                "CustomerReferences": {
+                    "CustomerReference": ["cust_001", "cust_002"]
+                },
+                "BookingReferences": {
+                    "BookingReference": {
+                        "ID": "267MRS",
+                        "AirlineID": {
+                            "@Name": "Lufthansa",
+                            "$": "LH"
+                        }
+                    }
+                },
+                "OrderItems": {
+                    "OrderItem": {
+                        "OrderItemID": {
+                            "@Owner": "LH",
+                            "@WebAddressID": "http:\/\/www.lufthansa.com\/"
+                        },
+                        "FlightItem": {
+                            "OriginDestination": {
+                                "Flight": [{
+                                    "SegmentKey": "SEG1",
+                                    "Departure": {
+                                        "AirportCode": "MUC",
+                                        "Date": "2016-03-05",
+                                        "Time": "08:00"
+                                    },
+                                    "Arrival": {
+                                        "AirportCode": "FRA",
+                                        "Date": "2016-03-05",
+                                        "Time": "09:10",
+                                        "ChangeOfDay": 0
+                                    },
+                                    "MarketingCarrier": {
+                                        "AirlineID": "LH",
+                                        "FlightNumber": "095"
+                                    },
+                                    "CabinType": "C",
+                                    "SeatItem": {
+                                        "Location": {
+                                            "Column": "A",
+                                            "Row": {
+                                                "Number": 5
+                                            }
+                                        }
+                                    },
+                                    "BaggageItem": {
+                                        "BagDetails": {
+                                            "BagDetail": {
+                                                "CheckedBags": {
+                                                    "CheckedBag": [{
+                                                        "BagTagNumber": "LH-1111-5678-1234",
+                                                        "BagType": "SUITCASE",
+                                                        "Weight": {
+                                                            "Value": 23,
+                                                            "UOM": "kg"
+                                                        },
+                                                        "Dimensions": [{
+                                                            "Category": "Length",
+                                                            "Value": 120,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Width",
+                                                            "Value": 80,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Height",
+                                                            "Value": 65,
+                                                            "UOM": "cm"
+                                                        }],
+                                                        "LoadingAllowed": true,
+                                                        "TransportationAllowed": true,
+                                                        "BagLoaded": true,
+                                                        "BagAccompanied": true,
+                                                        "ContainerNumber": "AKW-1234_5678LH",
+                                                        "ContainerHoldNumber": 4
+                                                    }, {
+                                                        "BagTagNumber": "LH-1111-5678-1299",
+                                                        "BagType": "DUFFEL BAG",
+                                                        "Weight": {
+                                                            "Value": 15,
+                                                            "UOM": "kg"
+                                                        },
+                                                        "Dimensions": [{
+                                                            "Category": "Length",
+                                                            "Value": 120,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Width",
+                                                            "Value": 80,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Height",
+                                                            "Value": 65,
+                                                            "UOM": "cm"
+                                                        }],
+                                                        "LoadingAllowed": true,
+                                                        "TransportationAllowed": true,
+                                                        "BagLoaded": true,
+                                                        "BagAccompanied": true,
+                                                        "ContainerNumber": "AKW-1234_5678LH",
+                                                        "ContainerHoldNumber": 4
+                                                    }],
+                                                    "TotalQuantity": 2
+                                                },
+                                                "CarryOnBags": {
+                                                    "CarryOnBag": {
+                                                        "BagType": "BAG",
+                                                        "Weight": {
+                                                            "Value": 8,
+                                                            "UOM": "kg"
+                                                        },
+                                                        "Dimensions": [{
+                                                            "Category": "Length",
+                                                            "Value": 30,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Width",
+                                                            "Value": 40,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Height",
+                                                            "Value": 20,
+                                                            "UOM": "cm"
+                                                        }]
+                                                    },
+                                                    "TotalQuantity": 1
+                                                }
+                                            }
+                                        }
+                                    }
+                                }, {
+                                    "SegmentKey": "SEG2",
+                                    "Departure": {
+                                        "AirportCode": "FRA",
+                                        "Date": "2016-03-05",
+                                        "Time": "10:20"
+                                    },
+                                    "Arrival": {
+                                        "AirportCode": "SFO",
+                                        "Date": "2016-03-05",
+                                        "Time": "13:00",
+                                        "ChangeOfDay": 0
+                                    },
+                                    "MarketingCarrier": {
+                                        "AirlineID": "LH",
+                                        "FlightNumber": 454
+                                    },
+                                    "CabinType": "C",
+                                    "SeatItem": {
+                                        "Location": {
+                                            "Column": "A",
+                                            "Row": {
+                                                "Number": 5
+                                            }
+                                        }
+                                    },
+                                    "BaggageItem": {
+                                        "BagDetails": {
+                                            "BagDetail": {
+                                                "CheckedBags": {
+                                                    "CheckedBag": [{
+                                                        "BagTagNumber": "LH-1111-5678-1234",
+                                                        "BagType": "SUITCASE",
+                                                        "Weight": {
+                                                            "Value": 23,
+                                                            "UOM": "kg"
+                                                        },
+                                                        "Dimensions": [{
+                                                            "Category": "Length",
+                                                            "Value": 120,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Width",
+                                                            "Value": 80,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Height",
+                                                            "Value": 65,
+                                                            "UOM": "cm"
+                                                        }],
+                                                        "LoadingAllowed": true,
+                                                        "TransportationAllowed": true,
+                                                        "BagLoaded": true,
+                                                        "BagAccompanied": true,
+                                                        "ContainerNumber": "AKW-1234_5678LH",
+                                                        "ContainerHoldNumber": 4
+                                                    }, {
+                                                        "BagTagNumber": "LH-1111-5678-1299",
+                                                        "BagType": "DUFFEL BAG",
+                                                        "Weight": {
+                                                            "Value": 15,
+                                                            "UOM": "kg"
+                                                        },
+                                                        "Dimensions": [{
+                                                            "Category": "Length",
+                                                            "Value": 120,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Width",
+                                                            "Value": 80,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Height",
+                                                            "Value": 65,
+                                                            "UOM": "cm"
+                                                        }],
+                                                        "LoadingAllowed": true,
+                                                        "TransportationAllowed": true,
+                                                        "BagLoaded": true,
+                                                        "BagAccompanied": true,
+                                                        "ContainerNumber": "AKW-1234_5678LH",
+                                                        "ContainerHoldNumber": 4
+                                                    }],
+                                                    "TotalQuantity": 2
+                                                },
+                                                "CarryOnBags": {
+                                                    "CarryOnBag": {
+                                                        "BagType": "BAG",
+                                                        "Weight": {
+                                                            "Value": 8,
+                                                            "UOM": "kg"
+                                                        },
+                                                        "Dimensions": [{
+                                                            "Category": "Length",
+                                                            "Value": 30,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Width",
+                                                            "Value": 40,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Height",
+                                                            "Value": 20,
+                                                            "UOM": "cm"
+                                                        }]
+                                                    },
+                                                    "TotalQuantity": 1
+                                                }
+                                            }
+                                        }
+                                    }
+                                }, {
+                                    "SegmentKey": "SEG3",
+                                    "Departure": {
+                                        "AirportCode": "SFO",
+                                        "Date": "2016-03-05",
+                                        "Time": "16:00"
+                                    },
+                                    "Arrival": {
+                                        "AirportCode": "PDX",
+                                        "Date": "2016-03-05",
+                                        "Time": "17:43",
+                                        "ChangeOfDay": 0
+                                    },
+                                    "MarketingCarrier": {
+                                        "AirlineID": "UA",
+                                        "FlightNumber": 550
+                                    },
+                                    "CabinType": "C",
+                                    "SeatItem": {
+                                        "Location": {
+                                            "Column": "A",
+                                            "Row": {
+                                                "Number": 5
+                                            }
+                                        }
+                                    },
+                                    "BaggageItem": {
+                                        "BagDetails": {
+                                            "BagDetail": {
+                                                "CheckedBags": {
+                                                    "CheckedBag": [{
+                                                        "BagTagNumber": "LH-1111-5678-1234",
+                                                        "BagType": "SUITCASE",
+                                                        "Weight": {
+                                                            "Value": 23,
+                                                            "UOM": "kg"
+                                                        },
+                                                        "Dimensions": [{
+                                                            "Category": "Length",
+                                                            "Value": 120,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Width",
+                                                            "Value": 80,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Height",
+                                                            "Value": 65,
+                                                            "UOM": "cm"
+                                                        }],
+                                                        "LoadingAllowed": true,
+                                                        "TransportationAllowed": true,
+                                                        "BagLoaded": true,
+                                                        "BagAccompanied": true,
+                                                        "ContainerNumber": "AKW-1234_5678LH",
+                                                        "ContainerHoldNumber": 4
+                                                    }, {
+                                                        "BagTagNumber": "LH-1111-5678-1299",
+                                                        "BagType": "DUFFEL BAG",
+                                                        "Weight": {
+                                                            "Value": 15,
+                                                            "UOM": "kg"
+                                                        },
+                                                        "Dimensions": [{
+                                                            "Category": "Length",
+                                                            "Value": 120,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Width",
+                                                            "Value": 80,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Height",
+                                                            "Value": 65,
+                                                            "UOM": "cm"
+                                                        }],
+                                                        "LoadingAllowed": true,
+                                                        "TransportationAllowed": true,
+                                                        "BagLoaded": true,
+                                                        "BagAccompanied": true,
+                                                        "ContainerNumber": "AKW-1234_5678LH",
+                                                        "ContainerHoldNumber": 4
+                                                    }],
+                                                    "TotalQuantity": 2
+                                                },
+                                                "CarryOnBags": {
+                                                    "CarryOnBag": {
+                                                        "BagType": "BAG",
+                                                        "Weight": {
+                                                            "Value": 8,
+                                                            "UOM": "kg"
+                                                        },
+                                                        "Dimensions": [{
+                                                            "Category": "Length",
+                                                            "Value": 30,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Width",
+                                                            "Value": 40,
+                                                            "UOM": "cm"
+                                                        }, {
+                                                            "Category": "Height",
+                                                            "Value": 20,
+                                                            "UOM": "cm"
+                                                        }]
+                                                    },
+                                                    "TotalQuantity": 1
+                                                }
+                                            }
+                                        }
+                                    }
+                                }]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Meta": {
+            "@Version": "1.0.0",
+            "Link": {
+                "@Href": "https:\/\/api-test.lufthansa.com\/v1\/customerdata\/customersandorders\/cust_001",
+                "@Rel": "self"
+            }
+        }
+    }
+}
